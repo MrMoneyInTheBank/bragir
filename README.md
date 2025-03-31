@@ -56,7 +56,7 @@ brew update && brew install bragir
 
 ### OpenAI
 
-Currently, this tool relise on OpenAIs API. That means that an OpenAI api-key is crucial. See the following resource of [how to get an OpenAI api-key](https://platform.openai.com/docs/quickstart?context=python)
+Currently, this tool relies on OpenAIs API. That means that an OpenAI api-key is crucial. See the following resource of [how to get an OpenAI api-key](https://platform.openai.com/docs/quickstart?context=python)
 
 ### Bragir
 Use pip to install Bragir
